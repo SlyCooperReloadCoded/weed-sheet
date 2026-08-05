@@ -1,5 +1,4 @@
-Note: This is ONLY for Sly 2 NTSC 
+Note: Both versions of this mod are ONLY for Sly 2 NTSC 
 
-Install:
-- Extract to your Textures folder in PCSX2 1.7
-- Enable "Load Textures" in your graphics settings under "Texture Replacement"
+You will only need one of these mods; either the texture swap, or the PNACH version. See wiki page for install instructions and info:
+https://slymods.info/wiki/Mod:EP_1_Roof_Fix
